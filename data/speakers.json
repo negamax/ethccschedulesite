@@ -1,0 +1,602 @@
+[
+  {
+    "image": "images/speakers/1.png",
+    "name": "Nick Johnson",
+    "company": "Ethereum Foundation"
+  },
+  {
+    "image": "images/speakers/2.png",
+    "name": "Martin Becze",
+    "company": "Ethereum Foundation"
+  },
+  {
+    "image": "images/speakers/3.png",
+    "name": "Rob Stupay",
+    "company": "Ethereum Foundation"
+  },
+  {
+    "image": "images/speakers/4.png",
+    "name": "Dimitry Khokhlov",
+    "company": "Ethereum Foundation"
+  },
+  {
+    "image": "images/speakers/5.png",
+    "name": "Aron Fischer",
+    "company": "Ethereum Foundation"
+  },
+  {
+    "image": "images/speakers/6.png",
+    "name": "Jordi Baylina",
+    "company": "Giveth"
+  },
+  {
+    "image": "images/speakers/7.png",
+    "name": "Nicolas Bacca",
+    "company": "Ledger"
+  },
+  {
+    "image": "images/speakers/8.png",
+    "name": "Clément Lesaege",
+    "company": "Kleros"
+  },
+  {
+    "image": "images/speakers/9.png",
+    "name": "Frankie Pangilinan",
+    "company": "Metamask"
+  },
+  {
+    "image": "images/speakers/10.png",
+    "name": "Thibaut Schaeffer",
+    "company": "Asseth - Provenance"
+  },
+  {
+    "image": "images/speakers/11.png",
+    "name": "Hudson Jameson",
+    "company": "Oaken Innovations"
+  },
+  {
+    "image": "images/speakers/12.png",
+    "name": "Raine Revere",
+    "company": "Shapeshift"
+  },
+  {
+    "image": "images/speakers/13.png",
+    "name": "Thomas Bertani",
+    "company": "Oraclize"
+  },
+  {
+    "image": "images/speakers/14.png",
+    "name": "Andres Junge",
+    "company": "Uport"
+  },
+  {
+    "image": "images/speakers/15.png",
+    "name": "Makoto Inoue",
+    "company": "Blockparty"
+  },
+  {
+    "image": "images/speakers/16.png",
+    "name": "Griff Green",
+    "company": "Giveth"
+  },
+  {
+    "image": "images/speakers/17.png",
+    "name": "Ashley Tyson",
+    "company": "Web3 Foundation"
+  },
+  {
+    "image": "images/speakers/18.png",
+    "name": "James Pitts",
+    "company": "Ethereum Foundation"
+  },
+  {
+    "image": "images/speakers/19.png",
+    "name": "Joshua Stark",
+    "company": "L4 Ventures"
+  },
+  {
+    "image": "images/speakers/20.png",
+    "name": "Raphaël Mazet",
+    "company": "Alice"
+  },
+  {
+    "image": "images/speakers/21.png",
+    "name": "Rick Dudley",
+    "company": "Vulcanize"
+  },
+  {
+    "image": "images/speakers/22.png",
+    "name": "Robbie Bent",
+    "company": "TrueBit"
+  },
+  {
+    "image": "images/speakers/23.png",
+    "name": "Jérôme de Tychey",
+    "company": "Asseth - ConsenSys"
+  },
+  {
+    "image": "images/speakers/24.png",
+    "name": "Yann Levreau",
+    "company": "Ethereum Foundation"
+  },
+  {
+    "image": "images/speakers/25.png",
+    "name": "Simon Polrot",
+    "company": "Asseth - VariabL"
+  },
+  {
+    "image": "images/speakers/26.png",
+    "name": "Hadrien Charlanes",
+    "company": "VariabL"
+  },
+  {
+    "image": "images/speakers/27.png",
+    "name": "Jenna Zenk",
+    "company": "Melonport"
+  },
+  {
+    "image": "images/speakers/28.png",
+    "name": "Will King",
+    "company": "ConsenSys"
+  },
+  {
+    "image": "images/speakers/29.png",
+    "name": "Daniel Nagy",
+    "company": "Ethereum Foundation"
+  },
+  {
+    "image": "images/speakers/30.png",
+    "name": "Jack Spallone",
+    "company": "Ujo"
+  },
+  {
+    "image": "images/speakers/31.png",
+    "name": "Jutta Steiner",
+    "company": "Parity Tech"
+  },
+  {
+    "image": "images/speakers/32.png",
+    "name": "Alex Beregszaszi",
+    "company": "Ethereum Foundation"
+  },
+  {
+    "image": "images/speakers/33.png",
+    "name": "Vanessa Grellet",
+    "company": "Consensys"
+  },
+  {
+    "image": "images/speakers/34.png",
+    "name": "Philippe Honigman",
+    "company": "Tribute"
+  },
+  {
+    "image": "images/speakers/35.png",
+    "name": "Amber Baldet",
+    "company": "JP Morgan"
+  },
+  {
+    "image": "images/speakers/36.png",
+    "name": "Hervé Hababou",
+    "company": "808 Labs"
+  },
+  {
+    "image": "images/speakers/37.png",
+    "name": "Robert Habermeier",
+    "company": "Parity Tech"
+  },
+  {
+    "image": "images/speakers/38.png",
+    "name": "Jared Pereira",
+    "company": "Fathom"
+  },
+  {
+    "image": "images/speakers/39.png",
+    "name": "Vaughn McKenzie",
+    "company": "Jaak"
+  },
+  {
+    "image": "images/speakers/40.png",
+    "name": "Jean Millerat",
+    "company": "Conseil Départemental des Hauts-de-Seine"
+  },
+  {
+    "image": "images/speakers/41.png",
+    "name": "Xavier Lavayssière",
+    "company": "ECAN"
+  },
+  {
+    "image": "images/speakers/42.png",
+    "name": "Siddharth Coelho-Prabhu",
+    "company": "Coinbase - Toshi"
+  },
+  {
+    "image": "images/speakers/43.png",
+    "name": "Hugh Karp",
+    "company": "Nexus Mutual"
+  },
+  {
+    "image": "images/speakers/44.png",
+    "name": "Lefteris Karapetsas",
+    "company": "Rotkehlchen"
+  },
+  {
+    "image": "images/speakers/45.png",
+    "name": "E.G. Galano",
+    "company": "Infura"
+  },
+  {
+    "image": "images/speakers/46.png",
+    "name": "Sajida Zouarhi",
+    "company": "Linnia"
+  },
+  {
+    "image": "images/speakers/47.png",
+    "name": "Josef Jelačič",
+    "company": "Birdy"
+  },
+  {
+    "image": "images/speakers/48.png",
+    "name": "Pavel Kral",
+    "company": "Birdy"
+  },
+  {
+    "image": "images/speakers/49.png",
+    "name": "Vlad Zamfir",
+    "company": "Ethereum Foundation"
+  },
+  {
+    "image": "images/speakers/50.png",
+    "name": "Bjorn Wagner",
+    "company": "Parity Tech"
+  },
+  {
+    "image": "images/speakers/51.png",
+    "name": "Matías Nisenson",
+    "company": "Experimental"
+  },
+  {
+    "image": "images/speakers/52.png",
+    "name": "Luciano Bertenasco",
+    "company": "Experimental"
+  },
+  {
+    "image": "images/speakers/53.png",
+    "name": "Trent McConaghy",
+    "company": "Ocean Protocol - BigchainDB"
+  },
+  {
+    "image": "images/speakers/55.png",
+    "name": "Rune Christensen",
+    "company": "MakerDAO"
+  },
+  {
+    "image": "images/speakers/56.png",
+    "name": "Ameen Soleimani",
+    "company": "SpankChain"
+  },
+  {
+    "image": "images/speakers/57.png",
+    "name": "Jez San",
+    "company": "FunFair"
+  },
+  {
+    "image": "images/speakers/58.png",
+    "name": "Alexis Collomb",
+    "company": "CNAM"
+  },
+  {
+    "image": "images/speakers/59.png",
+    "name": "Kavita Gupta",
+    "company": "ConsenSys"
+  },
+  {
+    "image": "images/speakers/60.png",
+    "name": "Logan Saether",
+    "company": "ChronoLogic"
+  },
+  {
+    "image": "images/speakers/61.png",
+    "name": "Emi Velazquez",
+    "company": "osn.global"
+  },
+  {
+    "image": "images/speakers/62.png",
+    "name": "Matthew Di Ferrante",
+    "company": "ZK Labs"
+  },
+  {
+    "image": "images/speakers/63.png",
+    "name": "Jorge Izquierdo",
+    "company": "Aragon"
+  },
+  {
+    "image": "images/speakers/64.png",
+    "name": "Jason Carver",
+    "company": "Ethereum Foundation"
+  },
+  {
+    "image": "images/speakers/65.png",
+    "name": "Don Mosites",
+    "company": "AirSwap"
+  },
+  {
+    "image": "images/speakers/66.png",
+    "name": "Eric Tang",
+    "company": "Livepeer"
+  },
+  {
+    "image": "images/speakers/67.png",
+    "name": "Antoine Detante",
+    "company": "InTech"
+  },
+  {
+    "image": "images/speakers/68.png",
+    "name": "Julien Bouteloup",
+    "company": "Flying Carpet"
+  },
+  {
+    "image": "images/speakers/69.png",
+    "name": "Jeremy Millar",
+    "company": "EEA - ConsenSys"
+  },
+  {
+    "image": "images/speakers/70.png",
+    "name": "Jacob S. Czepluch",
+    "company": "Brainbot"
+  },
+  {
+    "image": "images/speakers/71.png",
+    "name": "Paweł Bylica",
+    "company": "Ethereum Foundation"
+  },
+  {
+    "image": "images/speakers/72.png",
+    "name": "Greg Colvin",
+    "company": "Ethereum Foundation"
+  },
+  {
+    "image": "images/speakers/73.png",
+    "name": "Christoph Mussenbrock",
+    "company": "Etherisc"
+  },
+  {
+    "image": "images/speakers/74.png",
+    "name": "Patrick McCorry",
+    "company": "University College London"
+  },
+  {
+    "image": "images/speakers/75.png",
+    "name": "Evan Van Ness",
+    "company": "WeekInEthereum.com"
+  },
+  {
+    "image": "images/speakers/76.png",
+    "name": "Bob Summerwill",
+    "company": "Sweetbridge"
+  },
+  {
+    "image": "images/speakers/77.png",
+    "name": "Griffin Anderson",
+    "company": "Balanc3"
+  },
+  {
+    "image": "images/speakers/81.png",
+    "name": "Manon Burgel",
+    "company": "B2Expand"
+  },
+  {
+    "image": "images/speakers/78.png",
+    "name": "Stefan George",
+    "company": "Gnosis"
+  },
+  {
+    "image": "images/speakers/79.png",
+    "name": "Sandra Ro",
+    "company": "UWINcorp"
+  },
+  {
+    "image": "images/speakers/80.png",
+    "name": "Matan Field",
+    "company": "DAOstack"
+  },
+  {
+    "image": "images/speakers/83.png",
+    "name": "Jerome Bernard",
+    "company": "TalanLabs"
+  },
+  {
+    "image": "images/speakers/84.png",
+    "name": "Lane Rettig",
+    "company": "Ethereum Foundation"
+  },
+  {
+    "image": "images/speakers/85.png",
+    "name": "Fabian Vogelsteller",
+    "company": "Ethereum Foundation"
+  },
+  {
+    "image": "images/speakers/86.png",
+    "name": "Viktor Trón",
+    "company": "Ethereum Foundation"
+  },
+  {
+    "image": "images/speakers/87.png",
+    "name": "Casey Detrio",
+    "company": "Ethereum Foundation"
+  },
+  {
+    "image": "images/speakers/88.png",
+    "name": "Louis Holbrook",
+    "company": "Ethereum Foundation"
+  },
+  {
+    "image": "images/speakers/89.png",
+    "name": "Karl Floersch",
+    "company": "Ethereum Foundation"
+  },
+  {
+    "image": "images/speakers/90.png",
+    "name": "Maclane Wilkison",
+    "company": "NUcypher"
+  },
+  {
+    "image": "images/speakers/91.png",
+    "name": "Lama Mansour",
+    "company": "Gnosis"
+  },
+  {
+    "image": "images/speakers/92.png",
+    "name": "Adrian Brink",
+    "company": "Cosmos"
+  },
+  {
+    "image": "images/speakers/93.png",
+    "name": "Conor Svensson",
+    "company": "blk.io / Web3j"
+  },
+  {
+    "image": "images/speakers/94.png",
+    "name": "JP Smith",
+    "company": "Trail of Bits"
+  },
+  {
+    "image": "images/speakers/95.png",
+    "name": "Konstantin Gladych",
+    "company": "Changelly"
+  },
+  {
+    "image": "images/speakers/96.png",
+    "name": "Jacob Eberhardt",
+    "company": "Zokrates"
+  },
+  {
+    "image": "images/speakers/97.png",
+    "name": "Christophe Charles",
+    "company": "Octo Technology"
+  },
+  {
+    "image": "images/speakers/98.png",
+    "name": "Primavera De Filippi",
+    "company": "COALA"
+  },
+  {
+    "image": "images/speakers/99.png",
+    "name": "Everett Hildenbrandt",
+    "company": "Ethereum Foundation - eWASM"
+  },
+  {
+    "image": "images/speakers/100.png",
+    "name": "Silur",
+    "company": "Ethereum Foundation - EthereumJS - eWASM"
+  },
+  {
+    "image": "images/speakers/101.png",
+    "name": "Gregor Žavcer",
+    "company": "Datafund"
+  },
+  {
+    "image": "images/speakers/102.png",
+    "name": "Jacques Dafflon",
+    "company": "Bity SA, TrueLevel SA"
+  },
+  {
+    "image": "images/speakers/103.png",
+    "name": "Wassim Bendella",
+    "company": "Iexec"
+  },
+  {
+    "image": "images/speakers/104.png",
+    "name": "Julien Béranger",
+    "company": "Iexec"
+  },
+  {
+    "image": "images/speakers/105.png",
+    "name": "David Knot",
+    "company": "OmiseGO"
+  },
+  {
+    "image": "images/speakers/106.png",
+    "name": "Gerald Crescione",
+    "company": "SquareScale"
+  },
+  {
+    "image": "images/speakers/107.png",
+    "name": "Victor Valladier",
+    "company": "SquareScale"
+  },
+  {
+    "image": "images/speakers/108.png",
+    "name": "Martin Lundfall",
+    "company": "Circle"
+  },
+  {
+    "image": "images/speakers/109.png",
+    "name": "Peter Pratscher",
+    "company": "Bitfly"
+  },
+  {
+    "image": "images/speakers/110.png",
+    "name": "Daniel Ellison",
+    "company": "Consensys"
+  },
+  {
+    "image": "images/speakers/111.png",
+    "name": "Stephan Tual",
+    "company": "Atlas Neue"
+  },
+  {
+    "image": "images/speakers/112.png",
+    "name": "Vidal Chriqui",
+    "company": "808 LAbs"
+  },
+  {
+    "image": "images/speakers/113.png",
+    "name": "Christoph Jentzsch",
+    "company": "Slock.it"
+  },
+  {
+    "image": "images/speakers/114.png",
+    "name": "Joshua Cassidy",
+    "company": "Kauri.io"
+  },
+  {
+    "image": "images/speakers/115.png",
+    "name": "Nicolas Loubet",
+    "company": "Daisee"
+  },
+  {
+    "image": "images/speakers/116.png",
+    "name": "Christiane Ernst",
+    "company": "Gnosis"
+  },
+  {
+    "image": "images/speakers/117.png",
+    "name": "Nicola Cocchiaro",
+    "company": "Infura"
+  },
+  {
+    "image": "images/speakers/118.png",
+    "name": "Nick Dodson",
+    "company": "Ethjs"
+  },
+  {
+    "image": "images/speakers/119.png",
+    "name": "Yalda Mousavinia",
+    "company": "Space Decentral"
+  },
+  {
+    "image": "images/speakers/121.png",
+    "name": "Taylor Monahan",
+    "company": "MyCrypto"
+  },
+  {
+    "image": "images/speakers/122.png",
+    "name": "Pascal Van Hecke",
+    "company": "Ethereum NL - Token Engineers"
+  },
+  {
+    "image": "images/speakers/123.png",
+    "name": "Sina Habibian",
+    "company": "TrueBit"
+  }
+]
