@@ -26,6 +26,8 @@ public class SpeakerJSONCreator {
 
         JSONArray speakersJson = new JSONArray();
 
+        int idCounter = 1;
+
         for(Element element : speakerNodes) {
             String imageURL = element.getElementsByClass("speaker").get(0).attr("src");
             String company = element.getElementsByTag("h4").get(0).text();
@@ -35,6 +37,9 @@ public class SpeakerJSONCreator {
             speakerJson.put("name", speakerName);
             speakerJson.put("image", imageURL);
             speakerJson.put("company", company);
+            speakerJson.put("id", idCounter);
+
+            idCounter++;
 
             speakersJson.put(speakerJson);
         }
