@@ -109,6 +109,7 @@ public class ScheduleJSONCreator {
         //check events which have no speakers from speakers list
         for (Event event : eventList) {
             for (String eventSpeaker : event.speakers) {
+
                 boolean found = false;
 
                 for (Speaker speaker : speakers) {
@@ -121,6 +122,7 @@ public class ScheduleJSONCreator {
                 if (!found) {
                     System.out.println(event.talk);
                     System.out.println(Arrays.asList(event.speakers));
+                    break;
                 }
             }
         }
