@@ -1,14 +1,13 @@
 package org.ethcc;
 
+import com.google.gson.Gson;
 import org.apache.poi.openxml4j.exceptions.InvalidFormatException;
 import org.apache.poi.ss.usermodel.*;
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.ParseException;
 
-import java.io.File;
-import java.io.FileReader;
-import java.io.IOException;
+import java.io.*;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
@@ -18,6 +17,9 @@ import java.util.List;
  * Created by mohitaggarwal on 06/03/2018.
  */
 public class ScheduleJSONCreator {
+
+    private static boolean CLEANING_UP_DATA = false;
+
     public static void main(String[] args) throws IOException, InvalidFormatException, ParseException {
         File scheduleFile = new File("./data/schedule.xlsx");
 
@@ -71,17 +73,26 @@ public class ScheduleJSONCreator {
         //get events by day - in each day - in each venue - sorted by time
         //with speaker name linked to value in speakers.json
 
-        HashMap<Integer, HashMap<String, Event>> eventMap = new HashMap<Integer, HashMap<String, Event>>();
+        HashMap<Integer, HashMap<String, List<Event>>> eventMap = new HashMap<Integer, HashMap<String, List<Event>>>();
 
         //first pass, just create buckets - sort and process each bucket later
         for (Event event : eventList) {
-            HashMap<String, Event> venueMap = eventMap.get(event.day);
+            HashMap<String, List<Event>> venueMap = eventMap.get(event.day);
 
             if (venueMap == null ) {
-                venueMap = new HashMap<String, Event>();
+                venueMap = new HashMap<String, List<Event>>();
+                eventMap.put(event.day, venueMap);
             }
 
-            venueMap.put(event.venue, event);
+            List<Event> eventsInVenue = venueMap.get(event.venue);
+
+            if (eventsInVenue == null) {
+                eventsInVenue = new ArrayList<Event>();
+            }
+
+            eventsInVenue.add(event);
+
+            venueMap.put(event.venue, eventsInVenue);
         }
 
         //second pass, for each key, value in eventMap - sort and link (embed value from speakers json into each event)
@@ -115,11 +126,14 @@ public class ScheduleJSONCreator {
                 for (Speaker speaker : speakers) {
                     if (eventSpeaker.equalsIgnoreCase(speaker.name)) {
                         found = true;
+
+                        event.speakerList.add(speaker);
+
                         break;
                     }
                 }
 
-                if (!found) {
+                if (!found && CLEANING_UP_DATA) {
                     System.out.println(event.talk);
                     System.out.println(Arrays.asList(event.speakers));
                     break;
@@ -127,7 +141,20 @@ public class ScheduleJSONCreator {
             }
         }
 
-        System.out.println(themes);
+        //now we have all data for all events linked with speakers if exists
+        //create buckets by day for events - buckets inside them for venues - sort the events in each venue by time
+
+        //all of the above already exists in eventMap
+
+        //store everything as JSON
+        File outputScheduleFile = new File("./data/schedule.json");
+
+        BufferedWriter scheduleWriter = new BufferedWriter(new FileWriter(outputScheduleFile));
+
+        Gson gson = new Gson();
+        System.out.println(gson.toJson(eventMap));
+
+        scheduleWriter.write(gson.toJson(eventMap));
     }
 
     private static String formatTheme(String theme) {
@@ -189,7 +216,7 @@ public class ScheduleJSONCreator {
         String theme;
         String company;
         String special;
-        Speaker speakersObj[];
+        List<Speaker> speakerList = new ArrayList<Speaker>();
     }
 
     private static class Speaker {

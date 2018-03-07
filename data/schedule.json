@@ -1,0 +1,2470 @@
+{
+  "0": {
+    "Robert Faure": [
+      {
+        "talk": "What I don't like about Ethereum ",
+        "speakers": [
+          "Rick Dudley"
+        ],
+        "venue": "Robert Faure",
+        "startTime": "9:10",
+        "endTime": "9:40",
+        "day": 0,
+        "theme": "General",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Rick Dudley",
+            "image": "images/speakers/21.png",
+            "company": "Vulcanize"
+          }
+        ]
+      },
+      {
+        "talk": "Fuzzing",
+        "speakers": [
+          "Casey Detrio"
+        ],
+        "venue": "Robert Faure",
+        "startTime": "9:40",
+        "endTime": "10:10",
+        "day": 0,
+        "theme": "Security",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Casey Detrio",
+            "image": "images/speakers/87.png",
+            "company": "Ethereum Foundation"
+          }
+        ]
+      },
+      {
+        "talk": "Mining Pools and miner attackes",
+        "speakers": [
+          "Patrick McCorry"
+        ],
+        "venue": "Robert Faure",
+        "startTime": "11:00",
+        "endTime": "11:30",
+        "day": 0,
+        "theme": "Security",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Patrick McCorry",
+            "image": "images/speakers/74.png",
+            "company": "University College London"
+          }
+        ]
+      },
+      {
+        "talk": "Griefing oppurtunities in Kleros",
+        "speakers": [
+          "Clément Lesaege"
+        ],
+        "venue": "Robert Faure",
+        "startTime": "11:30",
+        "endTime": "12:00",
+        "day": 0,
+        "theme": "Security",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Clément Lesaege",
+            "image": "images/speakers/8.png",
+            "company": "Kleros"
+          }
+        ]
+      },
+      {
+        "talk": "BlockID identity on ethereum",
+        "speakers": [
+          "Christophe Charles"
+        ],
+        "venue": "Robert Faure",
+        "startTime": "14:00",
+        "endTime": "14:20",
+        "day": 0,
+        "theme": "Identity",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Christophe Charles",
+            "image": "images/speakers/97.png",
+            "company": "Octo Technology"
+          }
+        ]
+      },
+      {
+        "talk": "uPort approach to ethereum identity",
+        "speakers": [
+          "Andres Junge"
+        ],
+        "venue": "Robert Faure",
+        "startTime": "14:20",
+        "endTime": "14:50",
+        "day": 0,
+        "theme": "Identity",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Andres Junge",
+            "image": "images/speakers/14.png",
+            "company": "Uport"
+          }
+        ]
+      },
+      {
+        "talk": "blockchain identity erc725 and 735 ",
+        "speakers": [
+          "Antoine Detante"
+        ],
+        "venue": "Robert Faure",
+        "startTime": "14:50",
+        "endTime": "15:20",
+        "day": 0,
+        "theme": "Identity",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Antoine Detante",
+            "image": "images/speakers/67.png",
+            "company": "InTech"
+          }
+        ]
+      },
+      {
+        "talk": "Names and identity",
+        "speakers": [
+          ""
+        ],
+        "venue": "Robert Faure",
+        "startTime": "15:20",
+        "endTime": "16:05",
+        "day": 0,
+        "theme": "Identity",
+        "company": "",
+        "special": "Panel",
+        "speakerList": []
+      },
+      {
+        "talk": "Which governance for my tokens?",
+        "speakers": [
+          "Philippe Honigman"
+        ],
+        "venue": "Robert Faure",
+        "startTime": "17:00",
+        "endTime": "17:30",
+        "day": 0,
+        "theme": "General",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Philippe Honigman",
+            "image": "images/speakers/34.png",
+            "company": "Tribute"
+          }
+        ]
+      }
+    ],
+    "Abbe Gregoire": [
+      {
+        "talk": "Compliance Issues",
+        "speakers": [
+          "Simon Polrot"
+        ],
+        "venue": "Abbe Gregoire",
+        "startTime": "9:25",
+        "endTime": "9:55",
+        "day": 0,
+        "theme": "Complaince",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Simon Polrot",
+            "image": "images/speakers/25.png",
+            "company": "Asseth - VariabL"
+          }
+        ]
+      },
+      {
+        "talk": "Rotkehlchen (Complaince)",
+        "speakers": [
+          "Lefteris Karapetsas"
+        ],
+        "venue": "Abbe Gregoire",
+        "startTime": "9:55",
+        "endTime": "10:25",
+        "day": 0,
+        "theme": "Complaince",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Lefteris Karapetsas",
+            "image": "images/speakers/44.png",
+            "company": "Rotkehlchen"
+          }
+        ]
+      },
+      {
+        "talk": "Regulatory framweork for blockchain payments",
+        "speakers": [
+          "Xavier Lavayssière"
+        ],
+        "venue": "Abbe Gregoire",
+        "startTime": "11:05",
+        "endTime": "11:35",
+        "day": 0,
+        "theme": "Complaince",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Xavier Lavayssière",
+            "image": "images/speakers/41.png",
+            "company": "ECAN"
+          }
+        ]
+      },
+      {
+        "talk": "Balanc3",
+        "speakers": [
+          "Griffin Anderson"
+        ],
+        "venue": "Abbe Gregoire",
+        "startTime": "11:35",
+        "endTime": "12:05",
+        "day": 0,
+        "theme": "Complaince",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Griffin Anderson",
+            "image": "images/speakers/77.png",
+            "company": "Balanc3"
+          }
+        ]
+      },
+      {
+        "talk": "EEA",
+        "speakers": [
+          "Jeremy Millar"
+        ],
+        "venue": "Abbe Gregoire",
+        "startTime": "14:05",
+        "endTime": "14:35",
+        "day": 0,
+        "theme": "General",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Jeremy Millar",
+            "image": "images/speakers/69.png",
+            "company": "EEA - ConsenSys"
+          }
+        ]
+      },
+      {
+        "talk": "A call for an end to tribalism in ethereum",
+        "speakers": [
+          "Bob Summerwill"
+        ],
+        "venue": "Abbe Gregoire",
+        "startTime": "14:35",
+        "endTime": "15:05",
+        "day": 0,
+        "theme": "General",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Bob Summerwill",
+            "image": "images/speakers/76.png",
+            "company": "Sweetbridge"
+          }
+        ]
+      },
+      {
+        "talk": "Ujo",
+        "speakers": [
+          "Jack Spallone"
+        ],
+        "venue": "Abbe Gregoire",
+        "startTime": "15:05",
+        "endTime": "15:35",
+        "day": 0,
+        "theme": "DApp",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Jack Spallone",
+            "image": "images/speakers/30.png",
+            "company": "Ujo"
+          }
+        ]
+      },
+      {
+        "talk": "Jaak",
+        "speakers": [
+          "Vaughn McKenzie"
+        ],
+        "venue": "Abbe Gregoire",
+        "startTime": "15:35",
+        "endTime": "16:05",
+        "day": 0,
+        "theme": "DApp",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Vaughn McKenzie",
+            "image": "images/speakers/39.png",
+            "company": "Jaak"
+          }
+        ]
+      },
+      {
+        "talk": "The Ecosystem of Dapps",
+        "speakers": [
+          "Fauve Altman"
+        ],
+        "venue": "Abbe Gregoire",
+        "startTime": "17:00",
+        "endTime": "17:30",
+        "day": 0,
+        "theme": "DApp",
+        "company": "",
+        "special": "",
+        "speakerList": []
+      }
+    ],
+    "Classrooms": [
+      {
+        "talk": "P2P Tech Workshop - Secure Scuttlebutt Introduction",
+        "speakers": [
+          "Frankie Pangilinan"
+        ],
+        "venue": "Classrooms",
+        "startTime": "11:00",
+        "endTime": "11:30",
+        "day": 0,
+        "theme": "DApp",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Frankie Pangilinan",
+            "image": "images/speakers/9.png",
+            "company": "Metamask"
+          }
+        ]
+      },
+      {
+        "talk": "Live coding session: how to deploy a dapp with iExec",
+        "speakers": [
+          ""
+        ],
+        "venue": "Classrooms",
+        "startTime": "11:30",
+        "endTime": "12:35",
+        "day": 0,
+        "theme": "DApp",
+        "company": "iExec",
+        "special": "",
+        "speakerList": []
+      },
+      {
+        "talk": "Next generation EVM Smart Fuzzer: Echidna",
+        "speakers": [
+          "JP Smith"
+        ],
+        "venue": "Classrooms",
+        "startTime": "14:00",
+        "endTime": "16:00",
+        "day": 0,
+        "theme": "EVM",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "JP Smith",
+            "image": "images/speakers/94.png",
+            "company": "Trail of Bits"
+          }
+        ]
+      },
+      {
+        "talk": "Remix Workshop 1",
+        "speakers": [
+          ""
+        ],
+        "venue": "Classrooms",
+        "startTime": "16:30",
+        "endTime": "17:30",
+        "day": 0,
+        "theme": "General",
+        "company": "",
+        "special": "",
+        "speakerList": []
+      }
+    ],
+    "Jean-Baptiste Say": [
+      {
+        "talk": "The current state of token models",
+        "speakers": [
+          "Evan Van Ness"
+        ],
+        "venue": "Jean-Baptiste Say",
+        "startTime": "9:00",
+        "endTime": "9:30",
+        "day": 0,
+        "theme": "General",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Evan Van Ness",
+            "image": "images/speakers/75.png",
+            "company": "WeekInEthereum.com"
+          }
+        ]
+      },
+      {
+        "talk": "Personal Data, Privacy and Ethics",
+        "speakers": [
+          "Gregor Žavcer"
+        ],
+        "venue": "Jean-Baptiste Say",
+        "startTime": "9:30",
+        "endTime": "10:00",
+        "day": 0,
+        "theme": "Data",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Gregor Žavcer",
+            "image": "images/speakers/101.png",
+            "company": "Datafund"
+          }
+        ]
+      },
+      {
+        "talk": "Infrastructure Services in the swarm",
+        "speakers": [
+          "Viktor Trón"
+        ],
+        "venue": "Jean-Baptiste Say",
+        "startTime": "10:00",
+        "endTime": "10:30",
+        "day": 0,
+        "theme": "Data",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Viktor Trón",
+            "image": "images/speakers/86.png",
+            "company": "Ethereum Foundation"
+          }
+        ]
+      },
+      {
+        "talk": "Who owns you? The case for Linnia and Web 3.0",
+        "speakers": [
+          "Sajida Zouarhi"
+        ],
+        "venue": "Jean-Baptiste Say",
+        "startTime": "11:10",
+        "endTime": "11:30",
+        "day": 0,
+        "theme": "Data",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Sajida Zouarhi",
+            "image": "images/speakers/46.png",
+            "company": "Linnia"
+          }
+        ]
+      },
+      {
+        "talk": "Blockchain based SLA: Why does it matter and what alternatives to OnChain storage of critical data?",
+        "speakers": [
+          "Gerald Crescione",
+          "Victor Valladier"
+        ],
+        "venue": "Jean-Baptiste Say",
+        "startTime": "11:30",
+        "endTime": "12:00",
+        "day": 0,
+        "theme": "Data",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Gerald Crescione",
+            "image": "images/speakers/106.png",
+            "company": "SquareScale"
+          },
+          {
+            "name": "Victor Valladier",
+            "image": "images/speakers/107.png",
+            "company": "SquareScale"
+          }
+        ]
+      },
+      {
+        "talk": "BigchainDB",
+        "speakers": [
+          "Trent McConaghy"
+        ],
+        "venue": "Jean-Baptiste Say",
+        "startTime": "12:00",
+        "endTime": "12:30",
+        "day": 0,
+        "theme": "Data",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Trent McConaghy",
+            "image": "images/speakers/53.png",
+            "company": "Ocean Protocol - BigchainDB"
+          }
+        ]
+      },
+      {
+        "talk": "Why eWASM?",
+        "speakers": [
+          "Alex Beregszaszi"
+        ],
+        "venue": "Jean-Baptiste Say",
+        "startTime": "13:30",
+        "endTime": "13:50",
+        "day": 0,
+        "theme": "EVM",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Alex Beregszaszi",
+            "image": "images/speakers/32.png",
+            "company": "Ethereum Foundation"
+          }
+        ]
+      },
+      {
+        "talk": "From eWASM to Primea (DFINITY)",
+        "speakers": [
+          "Martin Becze"
+        ],
+        "venue": "Jean-Baptiste Say",
+        "startTime": "13:50",
+        "endTime": "14:20",
+        "day": 0,
+        "theme": "EVM",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Martin Becze",
+            "image": "images/speakers/2.png",
+            "company": "Ethereum Foundation"
+          }
+        ]
+      },
+      {
+        "talk": "Hacking eWASM - Cool demos!",
+        "speakers": [
+          "Jared Wasinger"
+        ],
+        "venue": "Jean-Baptiste Say",
+        "startTime": "14:20",
+        "endTime": "14:50",
+        "day": 0,
+        "theme": "EVM",
+        "company": "",
+        "special": "",
+        "speakerList": []
+      },
+      {
+        "talk": "Releasing the Hera with EVM-C",
+        "speakers": [
+          "Paweł Bylica"
+        ],
+        "venue": "Jean-Baptiste Say",
+        "startTime": "14:50",
+        "endTime": "15:05",
+        "day": 0,
+        "theme": "EVM",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Paweł Bylica",
+            "image": "images/speakers/71.png",
+            "company": "Ethereum Foundation"
+          }
+        ]
+      },
+      {
+        "talk": "Hera: The eWASM VM",
+        "speakers": [
+          "Jake Lang"
+        ],
+        "venue": "Jean-Baptiste Say",
+        "startTime": "15:05",
+        "endTime": "15:20",
+        "day": 0,
+        "theme": "EVM",
+        "company": "",
+        "special": "",
+        "speakerList": []
+      },
+      {
+        "talk": "KWASM: Overview and path to KWASM",
+        "speakers": [
+          "Everett Hildenbrandt"
+        ],
+        "venue": "Jean-Baptiste Say",
+        "startTime": "15:20",
+        "endTime": "16:00",
+        "day": 0,
+        "theme": "EVM",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Everett Hildenbrandt",
+            "image": "images/speakers/99.png",
+            "company": "Ethereum Foundation - eWASM"
+          }
+        ]
+      },
+      {
+        "talk": "Entire eWASM team discussion and Q&A",
+        "speakers": [
+          ""
+        ],
+        "venue": "Jean-Baptiste Say",
+        "startTime": "16:50",
+        "endTime": "17:30",
+        "day": 0,
+        "theme": "EVM",
+        "company": "",
+        "special": "Panel",
+        "speakerList": []
+      }
+    ],
+    "Paul Painleve": [
+      {
+        "talk": "Introductory Remark",
+        "speakers": [
+          "Le Cnam"
+        ],
+        "venue": "Paul Painleve",
+        "startTime": "9:00",
+        "endTime": "9:15",
+        "day": 0,
+        "theme": "General",
+        "company": "Asseth",
+        "special": "",
+        "speakerList": []
+      },
+      {
+        "talk": "Ethereum 2018 and beyond",
+        "speakers": [
+          "Hudson Jameson"
+        ],
+        "venue": "Paul Painleve",
+        "startTime": "9:15",
+        "endTime": "9:45",
+        "day": 0,
+        "theme": "General",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Hudson Jameson",
+            "image": "images/speakers/11.png",
+            "company": "Oaken Innovations"
+          }
+        ]
+      },
+      {
+        "talk": "EVM Languages - Past, Present and Future",
+        "speakers": [
+          "Daniel Ellison"
+        ],
+        "venue": "Paul Painleve",
+        "startTime": "9:45",
+        "endTime": "10:30",
+        "day": 0,
+        "theme": "EVM",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Daniel Ellison",
+            "image": "images/speakers/110.png",
+            "company": "Consensys"
+          }
+        ]
+      },
+      {
+        "talk": "A toolbox for zkSNARKs on Ethereum",
+        "speakers": [
+          "Jacob Eberhardt"
+        ],
+        "venue": "Paul Painleve",
+        "startTime": "11:05",
+        "endTime": "11:30",
+        "day": 0,
+        "theme": "Privacy",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Jacob Eberhardt",
+            "image": "images/speakers/96.png",
+            "company": "Zokrates"
+          }
+        ]
+      },
+      {
+        "talk": "Privacy, smart contract security and cryptography",
+        "speakers": [
+          "Matthew Di Ferrante"
+        ],
+        "venue": "Paul Painleve",
+        "startTime": "11:40",
+        "endTime": "12:40",
+        "day": 0,
+        "theme": "Privacy",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Matthew Di Ferrante",
+            "image": "images/speakers/62.png",
+            "company": "ZK Labs"
+          }
+        ]
+      },
+      {
+        "talk": "RingCT (Monero stuff for Ethereum)",
+        "speakers": [
+          "Silur"
+        ],
+        "venue": "Paul Painleve",
+        "startTime": "13:40",
+        "endTime": "14:10",
+        "day": 0,
+        "theme": "Privacy",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Silur",
+            "image": "images/speakers/100.png",
+            "company": "Ethereum Foundation - EthereumJS - eWASM"
+          }
+        ]
+      },
+      {
+        "talk": "Casper + Sharding = <3",
+        "speakers": [
+          "Vlad Zamfir"
+        ],
+        "venue": "Paul Painleve",
+        "startTime": "14:10",
+        "endTime": "16:20",
+        "day": 0,
+        "theme": "General",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Vlad Zamfir",
+            "image": "images/speakers/49.png",
+            "company": "Ethereum Foundation"
+          }
+        ]
+      },
+      {
+        "talk": "Gnosis Safe - 2 Factor Authentication for Ethereum and lessons learned from Gnosis Multisig",
+        "speakers": [
+          "Stefan George"
+        ],
+        "venue": "Paul Painleve",
+        "startTime": "16:50",
+        "endTime": "17:30",
+        "day": 0,
+        "theme": "Security",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Stefan George",
+            "image": "images/speakers/78.png",
+            "company": "Gnosis"
+          }
+        ]
+      }
+    ]
+  },
+  "1": {
+    "Robert Faure": [
+      {
+        "talk": "Managing a legacy Dapp",
+        "speakers": [
+          "Makoto Inoue"
+        ],
+        "venue": "Robert Faure",
+        "startTime": "9:00",
+        "endTime": "9:30",
+        "day": 1,
+        "theme": "DApp Dev",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Makoto Inoue",
+            "image": "images/speakers/15.png",
+            "company": "Blockparty"
+          }
+        ]
+      },
+      {
+        "talk": "Remix & Dapp Development",
+        "speakers": [
+          "Rob Stupay"
+        ],
+        "venue": "Robert Faure",
+        "startTime": "9:30",
+        "endTime": "10:00",
+        "day": 1,
+        "theme": "DApp Dev",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Rob Stupay",
+            "image": "images/speakers/3.png",
+            "company": "Ethereum Foundation"
+          }
+        ]
+      },
+      {
+        "talk": "Bridging the Dapp",
+        "speakers": [
+          "Bjorn Wagner"
+        ],
+        "venue": "Robert Faure",
+        "startTime": "10:00",
+        "endTime": "10:30",
+        "day": 1,
+        "theme": "DApp Dev",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Bjorn Wagner",
+            "image": "images/speakers/50.png",
+            "company": "Parity Tech"
+          }
+        ]
+      },
+      {
+        "talk": "State of Python Ethereum Tooling",
+        "speakers": [
+          "Jason Carver"
+        ],
+        "venue": "Robert Faure",
+        "startTime": "11:00",
+        "endTime": "11:30",
+        "day": 1,
+        "theme": "DApp Dev",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Jason Carver",
+            "image": "images/speakers/64.png",
+            "company": "Ethereum Foundation"
+          }
+        ]
+      },
+      {
+        "talk": "Ethereum Javascript 2018",
+        "speakers": [
+          "Nick Dodson"
+        ],
+        "venue": "Robert Faure",
+        "startTime": "11:30",
+        "endTime": "12:15",
+        "day": 1,
+        "theme": "DApp Dev",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Nick Dodson",
+            "image": "images/speakers/118.png",
+            "company": "Ethjs"
+          }
+        ]
+      },
+      {
+        "talk": "Svensson : web3j : Web 3 Java Dapp API",
+        "speakers": [
+          "Conor Svensson"
+        ],
+        "venue": "Robert Faure",
+        "startTime": "14:10",
+        "endTime": "14:55",
+        "day": 1,
+        "theme": "DApp Dev",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Conor Svensson",
+            "image": "images/speakers/93.png",
+            "company": "blk.io / Web3j"
+          }
+        ]
+      },
+      {
+        "talk": "Linking Dapps Together with Metadata",
+        "speakers": [
+          "James Pitts"
+        ],
+        "venue": "Robert Faure",
+        "startTime": "15:00",
+        "endTime": "15:30",
+        "day": 1,
+        "theme": "DApp Dev",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "James Pitts",
+            "image": "images/speakers/18.png",
+            "company": "Ethereum Foundation"
+          }
+        ]
+      },
+      {
+        "talk": "Swarm",
+        "speakers": [
+          "Daniel Nagy"
+        ],
+        "venue": "Robert Faure",
+        "startTime": "15:30",
+        "endTime": "16:00",
+        "day": 1,
+        "theme": "Data",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Daniel Nagy",
+            "image": "images/speakers/29.png",
+            "company": "Ethereum Foundation"
+          }
+        ]
+      },
+      {
+        "talk": "Quorum & What Business Actually Wants in a Blockchain",
+        "speakers": [
+          "Amber Baldet"
+        ],
+        "venue": "Robert Faure",
+        "startTime": "16:50",
+        "endTime": "17:20",
+        "day": 1,
+        "theme": "Protocol & Client",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Amber Baldet",
+            "image": "images/speakers/35.png",
+            "company": "JP Morgan"
+          }
+        ]
+      }
+    ],
+    "Abbe Gregoire": [
+      {
+        "talk": "Birdy: IoT for Birds Nests",
+        "speakers": [
+          "Pavel Kral",
+          "Josef Jelačič"
+        ],
+        "venue": "Abbe Gregoire",
+        "startTime": "9:00",
+        "endTime": "9:20",
+        "day": 1,
+        "theme": "IoT",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Pavel Kral",
+            "image": "images/speakers/48.png",
+            "company": "Birdy"
+          },
+          {
+            "name": "Josef Jelačič",
+            "image": "images/speakers/47.png",
+            "company": "Birdy"
+          }
+        ]
+      },
+      {
+        "talk": "Flying Carpet",
+        "speakers": [
+          "Julien Bouteloup"
+        ],
+        "venue": "Abbe Gregoire",
+        "startTime": "9:20",
+        "endTime": "9:50",
+        "day": 1,
+        "theme": "IoT",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Julien Bouteloup",
+            "image": "images/speakers/68.png",
+            "company": "Flying Carpet"
+          }
+        ]
+      },
+      {
+        "talk": "Plantoid: IoT and Law",
+        "speakers": [
+          "Primavera De Filippi"
+        ],
+        "venue": "Abbe Gregoire",
+        "startTime": "9:50",
+        "endTime": "10:05",
+        "day": 1,
+        "theme": "IoT",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Primavera De Filippi",
+            "image": "images/speakers/98.png",
+            "company": "COALA"
+          }
+        ]
+      },
+      {
+        "talk": "Slockit",
+        "speakers": [
+          "Christoph Jentzsch"
+        ],
+        "venue": "Abbe Gregoire",
+        "startTime": "10:50",
+        "endTime": "11:30",
+        "day": 1,
+        "theme": "IoT",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Christoph Jentzsch",
+            "image": "images/speakers/113.png",
+            "company": "Slock.it"
+          }
+        ]
+      },
+      {
+        "talk": "Prediction Markets",
+        "speakers": [
+          "Lama Mansour"
+        ],
+        "venue": "Abbe Gregoire",
+        "startTime": "11:30",
+        "endTime": "12:00",
+        "day": 1,
+        "theme": "Protocol & Client",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Lama Mansour",
+            "image": "images/speakers/91.png",
+            "company": "Gnosis"
+          }
+        ]
+      },
+      {
+        "talk": "TalanCoin - Repuation and HR",
+        "speakers": [
+          "Jerome Bernard"
+        ],
+        "venue": "Abbe Gregoire",
+        "startTime": "12:00",
+        "endTime": "12:20",
+        "day": 1,
+        "theme": "Tokens",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Jerome Bernard",
+            "image": "images/speakers/83.png",
+            "company": "TalanLabs"
+          }
+        ]
+      },
+      {
+        "talk": "Q&A With Kavita and Jerome: Investing and helping the ethereum ecosystem grow",
+        "speakers": [
+          ""
+        ],
+        "venue": "Abbe Gregoire",
+        "startTime": "14:00",
+        "endTime": "14:30",
+        "day": 1,
+        "theme": "General",
+        "company": "ConsenSys",
+        "special": "",
+        "speakerList": []
+      },
+      {
+        "talk": "Developing With Infura and Q&A",
+        "speakers": [
+          "E.G. Galano",
+          "Nicola Cocchiaro"
+        ],
+        "venue": "Abbe Gregoire",
+        "startTime": "14:35",
+        "endTime": "15:30",
+        "day": 1,
+        "theme": "Protocol & Client",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "E.G. Galano",
+            "image": "images/speakers/45.png",
+            "company": "Infura"
+          },
+          {
+            "name": "Nicola Cocchiaro",
+            "image": "images/speakers/117.png",
+            "company": "Infura"
+          }
+        ]
+      },
+      {
+        "talk": "Analyzing the Ethereum Blockchain with etherchain.org",
+        "speakers": [
+          "Peter Pratscher"
+        ],
+        "venue": "Abbe Gregoire",
+        "startTime": "15:30",
+        "endTime": "16:00",
+        "day": 1,
+        "theme": "Protocol & Client",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Peter Pratscher",
+            "image": "images/speakers/109.png",
+            "company": "Bitfly"
+          }
+        ]
+      },
+      {
+        "talk": "Blockchain Research Topics in Economics and Finance",
+        "speakers": [
+          "Alexis Collomb"
+        ],
+        "venue": "Abbe Gregoire",
+        "startTime": "16:00",
+        "endTime": "16:20",
+        "day": 1,
+        "theme": "Public Goods",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Alexis Collomb",
+            "image": "images/speakers/58.png",
+            "company": "CNAM"
+          }
+        ]
+      },
+      {
+        "talk": "Lightning Talks",
+        "speakers": [
+          "Pascal Van Hecke"
+        ],
+        "venue": "Abbe Gregoire",
+        "startTime": "16:35",
+        "endTime": "17:30",
+        "day": 1,
+        "theme": "General",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Pascal Van Hecke",
+            "image": "images/speakers/122.png",
+            "company": "Ethereum NL - Token Engineers"
+          }
+        ]
+      }
+    ],
+    "Classrooms": [
+      {
+        "talk": "Fellowship of Ethereum Magicians",
+        "speakers": [
+          "Greg Colvin"
+        ],
+        "venue": "Classrooms",
+        "startTime": "9:00",
+        "endTime": "10:00",
+        "day": 1,
+        "theme": "Protocol & Client",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Greg Colvin",
+            "image": "images/speakers/72.png",
+            "company": "Ethereum Foundation"
+          }
+        ]
+      },
+      {
+        "talk": "Workshop on Consensus Testing",
+        "speakers": [
+          "Dimitry Khokhlov"
+        ],
+        "venue": "Classrooms",
+        "startTime": "10:30",
+        "endTime": "12:00",
+        "day": 1,
+        "theme": "DApp",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Dimitry Khokhlov",
+            "image": "images/speakers/4.png",
+            "company": "Ethereum Foundation"
+          }
+        ]
+      },
+      {
+        "talk": "Manticore, EVM symbolic execution engine",
+        "speakers": [
+          "Josselin Feist",
+          "JP Smith"
+        ],
+        "venue": "Classrooms",
+        "startTime": "13:30",
+        "endTime": "15:30",
+        "day": 1,
+        "theme": "EVM",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "JP Smith",
+            "image": "images/speakers/94.png",
+            "company": "Trail of Bits"
+          }
+        ]
+      },
+      {
+        "talk": "Introduction to Game Theory for Blockchain",
+        "speakers": [
+          "Clément Lesaege"
+        ],
+        "venue": "Classrooms",
+        "startTime": "15:30",
+        "endTime": "17:30",
+        "day": 1,
+        "theme": "Protocol & Client",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Clément Lesaege",
+            "image": "images/speakers/8.png",
+            "company": "Kleros"
+          }
+        ]
+      }
+    ],
+    "Jean-Baptiste Say": [
+      {
+        "talk": "Deodands or how to give environmental resources the rools to save themselves",
+        "speakers": [
+          "Stephan Tual"
+        ],
+        "venue": "Jean-Baptiste Say",
+        "startTime": "9:00",
+        "endTime": "9:20",
+        "day": 1,
+        "theme": "Public Goods",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Stephan Tual",
+            "image": "images/speakers/111.png",
+            "company": "Atlas Neue"
+          }
+        ]
+      },
+      {
+        "talk": "Alice: transparent nonprofits on Ethereum",
+        "speakers": [
+          "Raphaël Mazet"
+        ],
+        "venue": "Jean-Baptiste Say",
+        "startTime": "9:20",
+        "endTime": "9:50",
+        "day": 1,
+        "theme": "Public Goods",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Raphaël Mazet",
+            "image": "images/speakers/20.png",
+            "company": "Alice"
+          }
+        ]
+      },
+      {
+        "talk": "Ethereum based energy commons",
+        "speakers": [
+          "Nicolas Loubet"
+        ],
+        "venue": "Jean-Baptiste Say",
+        "startTime": "9:50",
+        "endTime": "10:20",
+        "day": 1,
+        "theme": "Public Goods",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Nicolas Loubet",
+            "image": "images/speakers/115.png",
+            "company": "Daisee"
+          }
+        ]
+      },
+      {
+        "talk": "The Giveth Galaxy",
+        "speakers": [
+          "Griff Green"
+        ],
+        "venue": "Jean-Baptiste Say",
+        "startTime": "10:50",
+        "endTime": "11:25",
+        "day": 1,
+        "theme": "Public Goods",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Griff Green",
+            "image": "images/speakers/16.png",
+            "company": "Giveth"
+          }
+        ]
+      },
+      {
+        "talk": "Blockchain for social applications",
+        "speakers": [
+          "Vanessa Grellet"
+        ],
+        "venue": "Jean-Baptiste Say",
+        "startTime": "11:25",
+        "endTime": "11:55",
+        "day": 1,
+        "theme": "Public Goods",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Vanessa Grellet",
+            "image": "images/speakers/33.png",
+            "company": "Consensys"
+          }
+        ]
+      },
+      {
+        "talk": "Blockchain for good",
+        "speakers": [
+          "Sandra Ro"
+        ],
+        "venue": "Jean-Baptiste Say",
+        "startTime": "11:55",
+        "endTime": "12:25",
+        "day": 1,
+        "theme": "Public Goods",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Sandra Ro",
+            "image": "images/speakers/79.png",
+            "company": "UWINcorp"
+          }
+        ]
+      },
+      {
+        "talk": "Circles - Universal Basic Income on the Blockchain",
+        "speakers": [
+          "Martin Lundfall"
+        ],
+        "venue": "Jean-Baptiste Say",
+        "startTime": "14:05",
+        "endTime": "14:35",
+        "day": 1,
+        "theme": "Public Goods",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Martin Lundfall",
+            "image": "images/speakers/108.png",
+            "company": "Circle"
+          }
+        ]
+      },
+      {
+        "talk": "Decentralized Research and Open Collaboration",
+        "speakers": [
+          "Emi Velazquez"
+        ],
+        "venue": "Jean-Baptiste Say",
+        "startTime": "14:35",
+        "endTime": "15:05",
+        "day": 1,
+        "theme": "Public Goods",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Emi Velazquez",
+            "image": "images/speakers/61.png",
+            "company": "osn.global"
+          }
+        ]
+      },
+      {
+        "talk": "Blockchain for education innovation",
+        "speakers": [
+          "Jared Pereira"
+        ],
+        "venue": "Jean-Baptiste Say",
+        "startTime": "15:05",
+        "endTime": "15:35",
+        "day": 1,
+        "theme": "Public Goods",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Jared Pereira",
+            "image": "images/speakers/38.png",
+            "company": "Fathom"
+          }
+        ]
+      },
+      {
+        "talk": "Smart contracts for public admin",
+        "speakers": [
+          "Jean Millerat"
+        ],
+        "venue": "Jean-Baptiste Say",
+        "startTime": "15:35",
+        "endTime": "16:05",
+        "day": 1,
+        "theme": "Public Goods",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Jean Millerat",
+            "image": "images/speakers/40.png",
+            "company": "Conseil Départemental des Hauts-de-Seine"
+          }
+        ]
+      },
+      {
+        "talk": "An Introduction to Kauri - Community managed knowledge and best practices for devs!",
+        "speakers": [
+          "Joshua Cassidy"
+        ],
+        "venue": "Jean-Baptiste Say",
+        "startTime": "16:50",
+        "endTime": "17:20",
+        "day": 1,
+        "theme": "DApp Dev",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Joshua Cassidy",
+            "image": "images/speakers/114.png",
+            "company": "Kauri.io"
+          }
+        ]
+      }
+    ],
+    "Paul Painleve": [
+      {
+        "talk": "The Culture of Crypto Investing",
+        "speakers": [
+          "Raine Revere"
+        ],
+        "venue": "Paul Painleve",
+        "startTime": "9:00",
+        "endTime": "10:30",
+        "day": 1,
+        "theme": "Tokens",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Raine Revere",
+            "image": "images/speakers/12.png",
+            "company": "Shapeshift"
+          }
+        ]
+      },
+      {
+        "talk": "How to do better ICOs",
+        "speakers": [
+          "Fabian Vogelsteller"
+        ],
+        "venue": "Paul Painleve",
+        "startTime": "11:00",
+        "endTime": "11:30",
+        "day": 1,
+        "theme": "Tokens",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Fabian Vogelsteller",
+            "image": "images/speakers/85.png",
+            "company": "Ethereum Foundation"
+          }
+        ]
+      },
+      {
+        "talk": "ERC 777 (token)",
+        "speakers": [
+          "Jordi Baylina",
+          "Jacques Dafflon"
+        ],
+        "venue": "Paul Painleve",
+        "startTime": "11:30",
+        "endTime": "12:00",
+        "day": 1,
+        "theme": "Tokens",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Jordi Baylina",
+            "image": "images/speakers/6.png",
+            "company": "Giveth"
+          },
+          {
+            "name": "Jacques Dafflon",
+            "image": "images/speakers/102.png",
+            "company": "Bity SA, TrueLevel SA"
+          }
+        ]
+      },
+      {
+        "talk": "Parity",
+        "speakers": [
+          "Jutta Steiner"
+        ],
+        "venue": "Paul Painleve",
+        "startTime": "12:00",
+        "endTime": "12:30",
+        "day": 1,
+        "theme": "Protocol & Client",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Jutta Steiner",
+            "image": "images/speakers/31.png",
+            "company": "Parity Tech"
+          }
+        ]
+      },
+      {
+        "talk": "Light Clients for Heavy Chains",
+        "speakers": [
+          "Robert Habermeier"
+        ],
+        "venue": "Paul Painleve",
+        "startTime": "13:40",
+        "endTime": "14:10",
+        "day": 1,
+        "theme": "Protocol & Client",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Robert Habermeier",
+            "image": "images/speakers/37.png",
+            "company": "Parity Tech"
+          }
+        ]
+      },
+      {
+        "talk": "The DAO Stack",
+        "speakers": [
+          "Matan Field",
+          "Adam Levi"
+        ],
+        "venue": "Paul Painleve",
+        "startTime": "14:10",
+        "endTime": "14:35",
+        "day": 1,
+        "theme": "Protocol & Client",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Matan Field",
+            "image": "images/speakers/80.png",
+            "company": "DAOstack"
+          }
+        ]
+      },
+      {
+        "talk": "Colony",
+        "speakers": [
+          "Aron Fischer"
+        ],
+        "venue": "Paul Painleve",
+        "startTime": "14:35",
+        "endTime": "15:05",
+        "day": 1,
+        "theme": "DApp",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Aron Fischer",
+            "image": "images/speakers/5.png",
+            "company": "Ethereum Foundation"
+          }
+        ]
+      },
+      {
+        "talk": "Decentralised Governance",
+        "speakers": [
+          "Jorge Izquierdo"
+        ],
+        "venue": "Paul Painleve",
+        "startTime": "15:05",
+        "endTime": "15:35",
+        "day": 1,
+        "theme": "Protocol & Client",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Jorge Izquierdo",
+            "image": "images/speakers/63.png",
+            "company": "Aragon"
+          }
+        ]
+      },
+      {
+        "talk": "Cross blockchain atomic swaps between ethereum and bitcon",
+        "speakers": [
+          "Konstantin Gladych"
+        ],
+        "venue": "Paul Painleve",
+        "startTime": "15:35",
+        "endTime": "16:05",
+        "day": 1,
+        "theme": "DApp",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Konstantin Gladych",
+            "image": "images/speakers/95.png",
+            "company": "Changelly"
+          }
+        ]
+      },
+      {
+        "talk": "Ethereum alarm clock: scheduling transactions for the future",
+        "speakers": [
+          "Logan Saether"
+        ],
+        "venue": "Paul Painleve",
+        "startTime": "16:30",
+        "endTime": "17:00",
+        "day": 1,
+        "theme": "DApp",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Logan Saether",
+            "image": "images/speakers/60.png",
+            "company": "ChronoLogic"
+          }
+        ]
+      },
+      {
+        "talk": "FunFair - Scaling tech for mass market gaming",
+        "speakers": [
+          "Jez San"
+        ],
+        "venue": "Paul Painleve",
+        "startTime": "17:00",
+        "endTime": "17:30",
+        "day": 1,
+        "theme": "DApp",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Jez San",
+            "image": "images/speakers/57.png",
+            "company": "FunFair"
+          }
+        ]
+      }
+    ]
+  },
+  "2": {
+    "Robert Faure": [
+      {
+        "talk": "Decentralized insurance: Lessons learned and the roadmap to an open platform",
+        "speakers": [
+          "Christoph Mussenbrock"
+        ],
+        "venue": "Robert Faure",
+        "startTime": "9:00",
+        "endTime": "9:45",
+        "day": 2,
+        "theme": "DApp",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Christoph Mussenbrock",
+            "image": "images/speakers/73.png",
+            "company": "Etherisc"
+          }
+        ]
+      },
+      {
+        "talk": "Insurance for smart contracts",
+        "speakers": [
+          "Hugh Karp"
+        ],
+        "venue": "Robert Faure",
+        "startTime": "9:50",
+        "endTime": "10:20",
+        "day": 2,
+        "theme": "DApp",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Hugh Karp",
+            "image": "images/speakers/43.png",
+            "company": "Nexus Mutual"
+          }
+        ]
+      },
+      {
+        "talk": "Experimental - Gaming on Ethereum ",
+        "speakers": [
+          "Matías Nisenson",
+          "Luciano Bertenasco"
+        ],
+        "venue": "Robert Faure",
+        "startTime": "10:40",
+        "endTime": "11:10",
+        "day": 2,
+        "theme": "DApp",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Matías Nisenson",
+            "image": "images/speakers/51.png",
+            "company": "Experimental"
+          },
+          {
+            "name": "Luciano Bertenasco",
+            "image": "images/speakers/52.png",
+            "company": "Experimental"
+          }
+        ]
+      },
+      {
+        "talk": "Gaming on Ethereum ",
+        "speakers": [
+          "Manon Burgel"
+        ],
+        "venue": "Robert Faure",
+        "startTime": "11:10",
+        "endTime": "11:40",
+        "day": 2,
+        "theme": "DApp",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Manon Burgel",
+            "image": "images/speakers/81.png",
+            "company": "B2Expand"
+          }
+        ]
+      },
+      {
+        "talk": "Making the blockchain playful : cryptocurrencies and more",
+        "speakers": [
+          "Will King"
+        ],
+        "venue": "Robert Faure",
+        "startTime": "11:45",
+        "endTime": "12:00",
+        "day": 2,
+        "theme": "DApp",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Will King",
+            "image": "images/speakers/28.png",
+            "company": "ConsenSys"
+          }
+        ]
+      },
+      {
+        "talk": "MakerDAO and DAI stable coin",
+        "speakers": [
+          "Rune Christensen"
+        ],
+        "venue": "Robert Faure",
+        "startTime": "14:00",
+        "endTime": "14:30",
+        "day": 2,
+        "theme": "DApp",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Rune Christensen",
+            "image": "images/speakers/55.png",
+            "company": "MakerDAO"
+          }
+        ]
+      },
+      {
+        "talk": "Variabl",
+        "speakers": [
+          "Hadrien Charlanes"
+        ],
+        "venue": "Robert Faure",
+        "startTime": "14:30",
+        "endTime": "15:00",
+        "day": 2,
+        "theme": "DApp",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Hadrien Charlanes",
+            "image": "images/speakers/26.png",
+            "company": "VariabL"
+          }
+        ]
+      },
+      {
+        "talk": "Melonport",
+        "speakers": [
+          "Jenna Zenk"
+        ],
+        "venue": "Robert Faure",
+        "startTime": "15:05",
+        "endTime": "15:25",
+        "day": 2,
+        "theme": "DApp",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Jenna Zenk",
+            "image": "images/speakers/27.png",
+            "company": "Melonport"
+          }
+        ]
+      },
+      {
+        "talk": "Dapp Dev Panel",
+        "speakers": [
+          ""
+        ],
+        "venue": "Robert Faure",
+        "startTime": "15:30",
+        "endTime": "16:10",
+        "day": 2,
+        "theme": "DApp Dev",
+        "company": "",
+        "special": "",
+        "speakerList": []
+      }
+    ],
+    "Abbe Gregoire": [
+      {
+        "talk": "ETH Prize",
+        "speakers": [
+          "Ashley Tyson",
+          "Joshua Stark",
+          "Robbie Bent"
+        ],
+        "venue": "Abbe Gregoire",
+        "startTime": "9:40",
+        "endTime": "10:10",
+        "day": 2,
+        "theme": "Protocol & Client",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Ashley Tyson",
+            "image": "images/speakers/17.png",
+            "company": "Web3 Foundation"
+          },
+          {
+            "name": "Joshua Stark",
+            "image": "images/speakers/19.png",
+            "company": "L4 Ventures"
+          },
+          {
+            "name": "Robbie Bent",
+            "image": "images/speakers/22.png",
+            "company": "TrueBit"
+          }
+        ]
+      },
+      {
+        "talk": "Governance = <3",
+        "speakers": [
+          "Vlad Zamfir"
+        ],
+        "venue": "Abbe Gregoire",
+        "startTime": "10:50",
+        "endTime": "12:00",
+        "day": 2,
+        "theme": "Protocol & Client",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Vlad Zamfir",
+            "image": "images/speakers/49.png",
+            "company": "Ethereum Foundation"
+          }
+        ]
+      },
+      {
+        "talk": "Kleros - A justice system for the decentralized internet",
+        "speakers": [
+          "Federico Ast"
+        ],
+        "venue": "Abbe Gregoire",
+        "startTime": "14:00",
+        "endTime": "15:00",
+        "day": 2,
+        "theme": "DApp",
+        "company": "",
+        "special": "",
+        "speakerList": []
+      },
+      {
+        "talk": "Managing legal risk in blockchain space",
+        "speakers": [
+          ""
+        ],
+        "venue": "Abbe Gregoire",
+        "startTime": "15:00",
+        "endTime": "16:00",
+        "day": 2,
+        "theme": "General",
+        "company": "",
+        "special": "Panel",
+        "speakerList": []
+      }
+    ],
+    "Classrooms": [
+      {
+        "talk": "Remix Workshop 2",
+        "speakers": [
+          ""
+        ],
+        "venue": "Classrooms",
+        "startTime": "9:00",
+        "endTime": "10:00",
+        "day": 2,
+        "theme": "DApp Dev",
+        "company": "",
+        "special": "",
+        "speakerList": []
+      },
+      {
+        "talk": "Python Workshop",
+        "speakers": [
+          "Jason Carver"
+        ],
+        "venue": "Classrooms",
+        "startTime": "10:30",
+        "endTime": "12:00",
+        "day": 2,
+        "theme": "DApp Dev",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Jason Carver",
+            "image": "images/speakers/64.png",
+            "company": "Ethereum Foundation"
+          }
+        ]
+      },
+      {
+        "talk": "Smart Contract Hacking",
+        "speakers": [
+          "Clément Lesaege"
+        ],
+        "venue": "Classrooms",
+        "startTime": "14:00",
+        "endTime": "16:00",
+        "day": 2,
+        "theme": "DApp Dev",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Clément Lesaege",
+            "image": "images/speakers/8.png",
+            "company": "Kleros"
+          }
+        ]
+      }
+    ],
+    "Jean-Baptiste Say": [
+      {
+        "talk": "ERC 808 (bookings)",
+        "speakers": [
+          "Hervé Hababou"
+        ],
+        "venue": "Jean-Baptiste Say",
+        "startTime": "9:00",
+        "endTime": "9:30",
+        "day": 2,
+        "theme": "Protocol & Client",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Hervé Hababou",
+            "image": "images/speakers/36.png",
+            "company": "808 Labs"
+          }
+        ]
+      },
+      {
+        "talk": "MyCrypto",
+        "speakers": [
+          "Taylor Monahan"
+        ],
+        "venue": "Jean-Baptiste Say",
+        "startTime": "9:35",
+        "endTime": "10:05",
+        "day": 2,
+        "theme": "DEX",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Taylor Monahan",
+            "image": "images/speakers/121.png",
+            "company": "MyCrypto"
+          }
+        ]
+      },
+      {
+        "talk": "Mutable Resources",
+        "speakers": [
+          "Louis Holbrook"
+        ],
+        "venue": "Jean-Baptiste Say",
+        "startTime": "10:50",
+        "endTime": "11:20",
+        "day": 2,
+        "theme": "DApp Dev",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Louis Holbrook",
+            "image": "images/speakers/88.png",
+            "company": "Ethereum Foundation"
+          }
+        ]
+      },
+      {
+        "talk": "Video Livestreaming on Decentralised Internet",
+        "speakers": [
+          "Eric Tang"
+        ],
+        "venue": "Jean-Baptiste Say",
+        "startTime": "11:25",
+        "endTime": "12:00",
+        "day": 2,
+        "theme": "DApp",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Eric Tang",
+            "image": "images/speakers/66.png",
+            "company": "Livepeer"
+          }
+        ]
+      },
+      {
+        "talk": "DEX - Decentralised exchange",
+        "speakers": [
+          "Don Mosites"
+        ],
+        "venue": "Jean-Baptiste Say",
+        "startTime": "14:00",
+        "endTime": "14:15",
+        "day": 2,
+        "theme": "DEX",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Don Mosites",
+            "image": "images/speakers/65.png",
+            "company": "AirSwap"
+          }
+        ]
+      },
+      {
+        "talk": "Securing decentralized exchanges with hardware wallets",
+        "speakers": [
+          "Nicolas Bacca"
+        ],
+        "venue": "Jean-Baptiste Say",
+        "startTime": "14:20",
+        "endTime": "14:40",
+        "day": 2,
+        "theme": "DEX",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Nicolas Bacca",
+            "image": "images/speakers/7.png",
+            "company": "Ledger"
+          }
+        ]
+      },
+      {
+        "talk": "Decentralised Key Management",
+        "speakers": [
+          "Maclane Wilkison"
+        ],
+        "venue": "Jean-Baptiste Say",
+        "startTime": "14:45",
+        "endTime": "15:15",
+        "day": 2,
+        "theme": "DEX",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Maclane Wilkison",
+            "image": "images/speakers/90.png",
+            "company": "NUcypher"
+          }
+        ]
+      },
+      {
+        "talk": "Gnosis Dutch Exchange and the Mechanism Design of this Decentralised Exchange",
+        "speakers": [
+          "Christiane Ernst"
+        ],
+        "venue": "Jean-Baptiste Say",
+        "startTime": "15:15",
+        "endTime": "16:00",
+        "day": 2,
+        "theme": "DEX",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Christiane Ernst",
+            "image": "images/speakers/116.png",
+            "company": "Gnosis"
+          }
+        ]
+      }
+    ],
+    "Paul Painleve": [
+      {
+        "talk": "Plasma",
+        "speakers": [
+          "Karl Floersch"
+        ],
+        "venue": "Paul Painleve",
+        "startTime": "9:00",
+        "endTime": "9:40",
+        "day": 2,
+        "theme": "Scalability",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Karl Floersch",
+            "image": "images/speakers/89.png",
+            "company": "Ethereum Foundation"
+          }
+        ]
+      },
+      {
+        "talk": "Scaling with Cosmos, Tendermint and Plasma",
+        "speakers": [
+          "Adrian Brink"
+        ],
+        "venue": "Paul Painleve",
+        "startTime": "9:45",
+        "endTime": "10:25",
+        "day": 2,
+        "theme": "Scalability",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Adrian Brink",
+            "image": "images/speakers/92.png",
+            "company": "Cosmos"
+          }
+        ]
+      },
+      {
+        "talk": "Plasma - A Blockchain Scaling Story",
+        "speakers": [
+          "David Knot"
+        ],
+        "venue": "Paul Painleve",
+        "startTime": "10:45",
+        "endTime": "11:25",
+        "day": 2,
+        "theme": "Scalability",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "David Knot",
+            "image": "images/speakers/105.png",
+            "company": "OmiseGO"
+          }
+        ]
+      },
+      {
+        "talk": "A Decentralized Autonomous Space Agency with Aragon at its core",
+        "speakers": [
+          "Yalda Mousavinia"
+        ],
+        "venue": "Paul Painleve",
+        "startTime": "11:25",
+        "endTime": "11:55",
+        "day": 2,
+        "theme": "Public Goods",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Yalda Mousavinia",
+            "image": "images/speakers/119.png",
+            "company": "Space Decentral"
+          }
+        ]
+      },
+      {
+        "talk": "DAOs, Decentralised Governance",
+        "speakers": [
+          "Matan Field"
+        ],
+        "venue": "Paul Painleve",
+        "startTime": "12:00",
+        "endTime": "12:30",
+        "day": 2,
+        "theme": "Protocol & Client",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Matan Field",
+            "image": "images/speakers/80.png",
+            "company": "DAOstack"
+          }
+        ]
+      },
+      {
+        "talk": "Scalable Spanking",
+        "speakers": [
+          "Ameen Soleimani"
+        ],
+        "venue": "Paul Painleve",
+        "startTime": "13:40",
+        "endTime": "14:25",
+        "day": 2,
+        "theme": "DApp",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Ameen Soleimani",
+            "image": "images/speakers/56.png",
+            "company": "SpankChain"
+          }
+        ]
+      },
+      {
+        "talk": "Raiden and State Channels",
+        "speakers": [
+          "Jacob S. Czepluch"
+        ],
+        "venue": "Paul Painleve",
+        "startTime": "14:30",
+        "endTime": "15:00",
+        "day": 2,
+        "theme": "Scalability",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Jacob S. Czepluch",
+            "image": "images/speakers/70.png",
+            "company": "Brainbot"
+          }
+        ]
+      },
+      {
+        "talk": "Scalability and inter-blockchain connection via Oraclize",
+        "speakers": [
+          "Thomas Bertani"
+        ],
+        "venue": "Paul Painleve",
+        "startTime": "15:00",
+        "endTime": "15:30",
+        "day": 2,
+        "theme": "Scalability",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Thomas Bertani",
+            "image": "images/speakers/13.png",
+            "company": "Oraclize"
+          }
+        ]
+      },
+      {
+        "talk": "iExec Project Update",
+        "speakers": [
+          "Julien Béranger",
+          "Wassim Bendella"
+        ],
+        "venue": "Paul Painleve",
+        "startTime": "15:35",
+        "endTime": "15:55",
+        "day": 2,
+        "theme": "DApp",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Julien Béranger",
+            "image": "images/speakers/104.png",
+            "company": "Iexec"
+          },
+          {
+            "name": "Wassim Bendella",
+            "image": "images/speakers/103.png",
+            "company": "Iexec"
+          }
+        ]
+      },
+      {
+        "talk": "Scaling EthCC",
+        "speakers": [
+          "Jérôme de Tychey"
+        ],
+        "venue": "Paul Painleve",
+        "startTime": "16:15",
+        "endTime": "16:45",
+        "day": 2,
+        "theme": "Scalability",
+        "company": "",
+        "special": "",
+        "speakerList": [
+          {
+            "name": "Jérôme de Tychey",
+            "image": "images/speakers/23.png",
+            "company": "Asseth - ConsenSys"
+          }
+        ]
+      }
+    ]
+  }
+}
